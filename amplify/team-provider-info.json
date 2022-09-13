@@ -10,6 +10,17 @@
       "StackName": "amplify-yelpapp-dev-213139",
       "StackId": "arn:aws:cloudformation:us-east-1:620179071580:stack/amplify-yelpapp-dev-213139/8c637740-3381-11ed-9597-0a04c9ff81dd",
       "AmplifyAppId": "d27ot8f35yzegb"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d27ot8f35yzegb",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "yelpapp52747283": {}
+      }
     }
   }
 }
