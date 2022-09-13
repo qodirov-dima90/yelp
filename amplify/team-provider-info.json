@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yelpapp-dev-213139-authRole",
+      "UnauthRoleArn": "arn:aws:iam::620179071580:role/amplify-yelpapp-dev-213139-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::620179071580:role/amplify-yelpapp-dev-213139-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-yelpapp-dev-213139-deployment",
+      "UnauthRoleName": "amplify-yelpapp-dev-213139-unauthRole",
+      "StackName": "amplify-yelpapp-dev-213139",
+      "StackId": "arn:aws:cloudformation:us-east-1:620179071580:stack/amplify-yelpapp-dev-213139/8c637740-3381-11ed-9597-0a04c9ff81dd",
+      "AmplifyAppId": "d27ot8f35yzegb"
+    }
+  }
+}
